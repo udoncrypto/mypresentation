@@ -12,9 +12,7 @@ Connpass: https://defi.connpass.com/
 DeFiについてやさしく解説してくものです
 - [Learn Yearn Finance](https://github.com/udoncrypto/mypresentation/blob/master/%E3%82%84%E3%81%95%E3%81%97%E3%81%84DeFi/%E3%82%84%E3%81%95%E3%81%97%E3%81%84DeFi%20Learn%20Yearn%20Finance.pdf) : https://youtu.be/dZMRMkbcojg?t=3225
 - [Ethereum and DeFi History](https://github.com/udoncrypto/mypresentation/blob/master/%E3%82%84%E3%81%95%E3%81%97%E3%81%84DeFi/%E3%82%84%E3%81%95%E3%81%97%E3%81%84DeFi%20%E7%89%B9%E5%88%A5%E7%B7%A8%20Ethereum%20and%20DeFi%20History.pdf )
-- [Collateral Riskのお話](https://github.com/udoncrypto/mypresentation/blob/master/%E3%82%84%E3%81%95%E3%81%97%E3%81%84DeFi/%E3%82%84%E3%81%95%E3%81%97%E3%81%84DeFi%2312%20%20Collateral%20Risk.pdf ) 
-
-https://youtu.be/DfzIF0pYqIE?t=3446
+- [Collateral Riskのお話](https://github.com/udoncrypto/mypresentation/blob/master/%E3%82%84%E3%81%95%E3%81%97%E3%81%84DeFi/%E3%82%84%E3%81%95%E3%81%97%E3%81%84DeFi%2312%20%20Collateral%20Risk.pdf ) : https://youtu.be/DfzIF0pYqIE?t=3446
 
 ## やさしくないDeFi
 DeFiについてDeepな話や最新動向について話していく回です
