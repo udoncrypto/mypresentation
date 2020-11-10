@@ -2,7 +2,7 @@
 自分が前に発表した際のスライドです
 
 # DeFi Japan
-Telegram Community: https://t.me/DeFi_Japan
+Telegram Community: https://t.me/DeFi_JP
 
 Youtube: https://www.youtube.com/channel/UC4VPI-g1ic_C76lMbvvK8Gg
 
